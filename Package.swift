@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "binah-ios-package",
+    name: "galenit-binah",
     platforms: [
         .iOS(.v14)
     ],
