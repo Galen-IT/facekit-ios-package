@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GalenitFaceKit",
-            url: "https://github.com/galen-it/facekit-ios-package/releases/download/1.0.0/GalenitFaceKit.xcframework.zip",
-            checksum: "397b362e85f5131e85a82cddfb67513d3bc3a598a0c2d53746747c068b37b8e9"
+            url: "https://github.com/galen-it/facekit-ios-package/releases/download/1.0.2/GalenitFaceKit.xcframework.zip",
+            checksum: "489f0f227464b8e63acf84412a7863ff6677892591cbaab786d6afa06f3c446b"
         )
     ]
 )
